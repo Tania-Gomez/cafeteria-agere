@@ -9839,6 +9839,11 @@ body {
   background-color: #E4572E;
 }
 
+.arrow {
+  color: #FFF;
+  padding: 2rem 0;
+}
+
 .about {
   width: 100%;
   height: auto;
