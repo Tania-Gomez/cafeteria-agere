@@ -1,0 +1,19 @@
+.navbar__buttons--primary {
+  border: 1px solid $spanish-gray;
+  background-color: $white;
+  color: $spanish-gray;
+  &:hover {
+    border: 1px solid $black;
+    color: $black;
+  }
+}
+.navbar__buttons--secondary {
+  border: 1px solid $shiny-shamrock;
+  background-color: $shiny-shamrock;
+  color: $white;
+  &:hover {
+    border: 1px solid $pastel-gray;
+    background-color: $pastel-gray;
+    color: $shiny-shamrock;
+  }
+}
